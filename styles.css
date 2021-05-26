@@ -1,0 +1,135 @@
+.body{
+position: relative;
+width: 1440px;
+height: 1167px;
+color: #FFFFFF
+background: #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+.banner{
+height: 1024px;
+width: 1823px;
+left: -10px;
+top: 0px;
+border-radius: 0px;
+}
+
+
+.pas{ 
+position: absolute;
+width: 730px;
+height: 379px;
+left: 355px;
+top: 104px;
+}
+
+.h1{
+position: absolute;
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16.5px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+}
+.group{
+/* Group 1 */
+
+position: absolute;
+width: 1043px;
+height: 242.75px;
+left: 229px;
+top: 555px;
+}
+
+.group img:hover {
+      transform: scale(1.05);
+}
+
+/* ¡ELIGE UNA CATEGORÍA PARA COMENZAR TU BUSQUEDA!! */
+.elige{
+position: absolute;
+width: 475px;
+height: 24px;
+left: 499px;
+top: 800px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 10.5px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+.footer{
+
+position: absolute;
+width: 285px;
+height: 84px;
+left: 577px;
+top: 900px;
+
+}
+
+/* Idea Original de Pastando Luciana Collado Diseño de logo y pagína web: Luciana Rizzo Créditos por fotografía a : www.freepik.es/home */
+.text{
+position: absolute;
+width: 230.26px;
+height: 44px;
+left: 631.74px;
+top: 1088px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 14px;
+
+color: #FFFFFF;
+
+}
+.icona{
+/* Rectangle 11 */
+
+position: absolute;
+width: 21.71px;
+height: 30px;
+left: 631.74px;
+top: 1060px;
+
+background: url(icons8-facebook-100.png);
+
+}
+.iconb {
+/* Rectangle 12 */
+
+position: absolute;
+width: 19.82px;
+height: 30px;
+left: 657.22px;
+top: 1060px;
+
+background: url(icons8-instagram-100.png);
+
+}
+.logi{/* Rectangle 10 */
+
+position: absolute;
+width: 46.24px;
+height: 84px;
+left: 577px;
+top: 1052px;
+
+background: url(logo-resumido.png);
+}
+.iconb img:hover {
+      transform: scale(1.08);}
+.icona img:hover {
+      transform: scale(1.08);}
